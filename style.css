@@ -1,0 +1,23 @@
+.nav li a {
+    margin-left: 0px;
+    padding-left: 0px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+.dec {
+    display: block;
+    font-size: 16px;
+    color: #444;
+    padding: .6em 1.4em .5em .8em;
+    width: 100px;
+    box-sizing: border-box;
+    margin: 0;
+    border: none;
+    appearance: none;
+}
